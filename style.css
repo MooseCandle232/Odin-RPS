@@ -1,0 +1,24 @@
+h1, h2 {
+    text-align: center;
+}
+
+.button {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 16px;
+}
+
+.scorecard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 128px;
+}
+
+.output {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
